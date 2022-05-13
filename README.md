@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DerpyNerd
-- 👀 I’m interested in C++ and Rust development, Cybersecurity, Open Source, Shell Scripting
+- 👀 I’m interested in C++ development, Cybersecurity, Shell Scripting, Linux Development, DevOps
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
