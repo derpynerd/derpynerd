@@ -6,5 +6,6 @@
   - Linux (and of course `Bash`)
   - Data storage & progression over time 
 
-Picture of me getting distracted by the wonders of computers - 
-![image](https://github.com/derpynerd/DerpyNerd/assets/70688771/7b8e6229-234a-462d-95bf-c91f871f9545)
+| Much | Wow |
+| -------- | -------- |
+| Image of me geting mesmerized by the wonders of computers | ![image](https://github.com/derpynerd/DerpyNerd/assets/70688771/7b8e6229-234a-462d-95bf-c91f871f9545) |
