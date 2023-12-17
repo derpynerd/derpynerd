@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @DerpyNerd
-- 👀 I’m interested in C++ development, Cybersecurity, Shell Scripting, Linux Development, DevOps
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I'm Fawaz 
 
-<!---
-DerpyNerd/DerpyNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ### I'm a software developer and I like experimenting with all kinds of programming related nonesense :)
+- ### Currently trying to get into backend development specifically with the ol' reliable Java in my toolbox
