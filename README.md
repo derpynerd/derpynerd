@@ -4,7 +4,7 @@
 - ### Currently trying to get into backend development specifically with the _ol' reliable_ `Java` in my toolbox
 - ### Things I'm interested in -
   - Linux (and of course `Bash`)
-  - Data storage & progression over time 
+  - Data storage & its progression over time 
 
 | Much | Wow |
 | -------- | -------- |
