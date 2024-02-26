@@ -1,10 +1,12 @@
 ## Hi, I'm Fawaz 
 
-- ### I'm a software developer and I like experimenting with all kinds of programming related nonsense :)
-- ### Currently trying to get into backend development specifically with the _ol' reliable_ `Java` in my toolbox
+- ### I'm a Software Engineer and I like experimenting with all kinds of programming related nonsense :)
+- ### Currently trying to get into backend development specifically with the _ol' reliable_ `Java` in my toolbox & occasionally `C++`
 - ### Things I'm interested in -
-  - Linux (and of course `Bash`)
-  - Data storage & its progression over time 
+  - Linux ((was) using arch btw)
+  - Scripting languages for automating small tasks
+  - Computer architecture & low-level programming
+  - Data storage at a bit/byte level of memory
 
 | Much | Wow |
 | -------- | -------- |
